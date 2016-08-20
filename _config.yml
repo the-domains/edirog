@@ -11,6 +11,9 @@ color:
     - '#046380'
     - '#002F2F'
 layout_spectrum: 0.39173478819429874
+author:
+  name: Steve Gavrilles
+  email: steve@edirog.com
 name: edirog
 title: edirog.com
 description: Never ride alone.
