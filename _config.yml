@@ -1,0 +1,14 @@
+layout_spectrum: 0.39173478819429874
+typography_spectrum: 0.9750717752613127
+color:
+  brandStrength: 0.568282212363556
+  lightness: 0.13709268486127257
+  saturation: 0.798188132699579
+  rhythmicContrast: 0.3539382070302963
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: edirog
