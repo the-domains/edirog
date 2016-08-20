@@ -1,3 +1,4 @@
+layout_spectrum: 0.39173478819429874
 typography_spectrum: 0.9750717752613127
 color:
   brandStrength: 0.568282212363556
@@ -5,15 +6,9 @@ color:
   saturation: 0.798188132699579
   rhythmicContrast: 0.3539382070302963
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-layout_spectrum: 0.39173478819429874
-author:
-  name: Steve Gavrilles
-  email: steve@edirog.com
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: edirog
-title: edirog
-description: Never ride alone.
